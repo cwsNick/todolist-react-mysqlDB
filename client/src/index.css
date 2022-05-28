@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: left;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.addBtnBar{
+  display: flex;
+  justify-content: right; 
+  align-items: right; 
+}
+
+.btn-circle {
+  border-radius: 25px;
+  text-align: center;
+}
+
+btn-md {
+  width: 50px;
+  height: 50px;
+  padding: 1px 10px;
+  font-size: 28px;
+}
+
+.header {
+  padding: 60px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #16a085;
+  color: white;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  margin: 30px;
+}
+
+.table {
+  max-width: 750px;
+}
+
+.btn {
+  margin-right: 10px;
+  border: 0px;
+}
+
+.form-group{
+  margin-bottom: 10px;
+}
