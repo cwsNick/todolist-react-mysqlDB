@@ -13,6 +13,9 @@ const Home = () => {
   return (
     <div style={{ marginTop: "150px" }}>
       <div className="addBtnBar">
+        <Link to="/card">
+          <button className="btn btn btn-light">Card model</button>
+        </Link>
         <Link to="/addTask">
           <button className="btn btn-primary btn-circle btn-md">+</button>
         </Link>
