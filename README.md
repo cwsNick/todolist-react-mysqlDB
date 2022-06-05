@@ -7,16 +7,16 @@ Node.js
 ## Function
 ### Home Page
 view Task
-![App Home Page](./client/README_image/home_page.png)
+![App Home Page](./client/README/home_page.png)
 ### Add Task Page
 Add Task
-![App Add Task Page](./client/README_image/add_task_page.png)
+![App Add Task Page](./client/README/add_task_page.png)
 ### Edit Page
 Edit Task
-![App Edit Page](./client/README_image/edit_page.png)
+![App Edit Page](./client/README/edit_page.png)
 ### View Page
 View Task
-![App View Page](./client/README_image/view_page.png)
+![App View Page](./client/README/view_page.png)
 
 
 ---
